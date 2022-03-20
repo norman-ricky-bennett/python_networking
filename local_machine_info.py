@@ -1,5 +1,5 @@
 #! /usr/bin/env
-# Python 2.7 Machine Scanner
+# Python Local Machine Scanner
 
 import socket
 
